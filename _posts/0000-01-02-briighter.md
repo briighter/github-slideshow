@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#The only reality is the one happening in your head.
+
 Use the left arrow to go back!
